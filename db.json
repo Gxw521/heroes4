@@ -1,18 +1,26 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "title": "put修改",
+      "id": 2
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "title": "12132",
+      "author": "222",
+      "id": 3
+    },
+    {
+      "title": "小泽",
+      "author": "222",
+      "id": 4
+    },
+    {
+      "title": "defjfjkrjfksd",
+      "author": "222",
+      "id": 5
     }
   ],
+  "comments": [],
   "profile": {
     "name": "typicode"
   }
